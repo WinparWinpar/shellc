@@ -1,2 +1,2 @@
 # shellc
-shellc command (alternative to shc) download repo
+command is 
